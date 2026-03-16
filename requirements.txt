@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+torch
+sentence-transformers
+plotly
+scikit-learn
+typing-extensions
+watchdog
